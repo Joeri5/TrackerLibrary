@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe.config
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.pdb
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+\\Mac\Home\Desktop\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
